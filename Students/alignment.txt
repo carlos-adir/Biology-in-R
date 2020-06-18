@@ -1,0 +1,120 @@
+########################################
+# Program: Biostrings (version 2.46.0), a Bioconductor package
+# Rundate: Thu Jun 18 14:09:28 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: PKD1_protein
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 14.0
+# Extend_penalty: 4.0
+#
+# Length: 560
+# Identity:     555/560 (99.1%)
+# Similarity:    NA/560 (NA%)
+# Gaps:           4/560 (0.7%)
+# Score: 2872
+#
+#
+#=======================================
+
+PKD1_protein    3641 ARVPRVRPPHGFALFLAKEEARKVKRLHGMLRSLLVYMLFLLVTLLASYG   3690
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 ARVPRVRPPHGFALFLAKEEARKVKRLHGMLRSLLVYMLFLLVTLLASYG     50
+
+PKD1_protein    3691 DASCHGHAYRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQS   3740
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                51 DASCHGHAYRLQSAIKQELHSRAFLAITRSEELWPWMAHVLLPYVHGNQS    100
+
+PKD1_protein    3741 SPELGPPRLRQVRLQEALYPDPPGPRVHTCSAAGGFSTSDYDVGWESPHN   3790
+                     |||||||||||||||||||||||||||||||||||||| |||||||||||
+S1               101 SPELGPPRLRQVRLQEALYPDPPGPRVHTCSAAGGFSTRDYDVGWESPHN    150
+
+PKD1_protein    3791 GSGTWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLH   3840
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               151 GSGTWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLH    200
+
+PKD1_protein    3841 NWLDNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFAL   3890
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 NWLDNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFAL    250
+
+PKD1_protein    3891 RRLSAGLSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWL   3940
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               251 RRLSAGLSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWL    300
+
+PKD1_protein    3941 LVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGL   3990
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 LVALTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGL    350
+
+PKD1_protein    3991 AASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAY   4040
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               351 AASLLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAY    400
+
+PKD1_protein    4041 AQLAILLVSSCVDSLWSVAQALLVLCPGTGLSTLCPAESWHLSPLLCVGL   4090
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 AQLAILLVSSCVDSLWSVAQALLVLCPGTGLSTLCPAESWHLSPLLCVGL    450
+
+PKD1_protein    4091 WALRLWGALRLGAVILRWRYHALRGELYRPAWEPQDYEMVELFLRRLRLW   4140
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               451 WALRLWGALRLGAVILRWRYHALRGELYRPAWEPQDYEMVELFLRRLRLW    500
+
+PKD1_protein    4141 MGLSKVKEFRH----KVRFEGMEPLPSRSSRGSKVSPDVPPPSAGSDASH   4186
+                     |||||||||||    |||||||||||||||||||||||||||||||||||
+S1               501 MGLSKVKEFRHPQFRKVRFEGMEPLPSRSSRGSKVSPDVPPPSAGSDASH    550
+
+PKD1_protein    4187 PSTSSSQLDG   4196
+                     ||||||||||
+S1               551 PSTSSSQLDG    560
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: PKD2_protein
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 14.0
+# Extend_penalty: 4.0
+#
+# Length: 310
+# Identity:      77/310 (24.8%)
+# Similarity:    NA/310 (NA%)
+# Gaps:           1/310 (0.3%)
+# Score: 249
+#
+#
+#=======================================
+
+PKD2_protein     316 LGVPRIRQLRVRNGSCSIPQDLRDEIKECYDVYSVSSEDRAPFGPRNGTA    365
+                     || || || |        |   |          |    |     | ||  
+S1               104 LGPPRLRQVRLQEALYPDPPGPRVHTCSAAGGFSTRDYDVGWESPHNGSG    153
+
+PKD2_protein     366 WIYTSEKDLNGSSHWGIIATYSGAGYYLDLSRTREETAAQVASLKKNVWL    415
+                         |  || |   ||  | |   ||   |    ||       |    ||
+S1               154 TWAYSAPDLLGAWSWGSCAVYDSGGYVQELGLSLEESRDRLRFLQLHNWL    203
+
+PKD2_protein     416 DRGTRATFIDFSVYNANINLFCVVRLLVEFPATGGVIPSWQFQPLKLIRY    465
+                     |   || |     |     |   | |  |||| |         |  | | 
+S1               204 DNRSRAVFLELTRYSPAVGLHAAVTLRLEFPAAGRALAALSVRPFALRRL    253
+
+PKD2_protein     466 VTTFDFFLAACEIIFCFFIFYYVVEEILEIRIHKLHYFR-SFWNCLDVVI    514
+                            |        |     | |     |       |   |     | 
+S1               254 SAGLSLPLLTSVCLLLFAVHFAVAEARTWHREGRWRVLRLGAWARWLLVA    303
+
+PKD2_protein     515 VVLSVVAIGINIYRTSNVEVLLQFLEDQNTFPNFEHLAYWQIQFNNIAAV    564
+                                                   |  |   |         || 
+S1               304 LTAATALVRLAQLGAADRQWTRFVRGRPRRFTSFDQVAQLSSAARGLAAS    353
+
+PKD2_protein     565 TVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGFAIMFFIIFLAYAQL    614
+                       |    |      | |  |    |  |    | |          |||||
+S1               354 LLFLLLVKAAQQLRFVRQWSVFGKTLCRALPELLGVTLGLVVLGVAYAQL    403
+
+PKD2_protein     615 AYLVFGTQVD    624
+                     | |     ||
+S1               404 AILLVSSCVD    413
+
+
+#---------------------------------------
+#---------------------------------------
